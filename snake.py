@@ -1,4 +1,4 @@
-# Turtele is a grapical module.
+# Turtele is a grapical module..
 
 import turtle
 import time
